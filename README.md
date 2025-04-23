@@ -15,7 +15,7 @@ apt update -y
 apt upgrade -y
 apt install git -y
 cd $HOME
-git clone https://github.com/tharindu899/x-theme](https://github.com/scamer0018/TERMUX-THEME-X4.git
+git clone https://github.com/scamer0018/TERMUX-THEME-X4.git
 cd x-theme
 bash zsh.sh
 clear
